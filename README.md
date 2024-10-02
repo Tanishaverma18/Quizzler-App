@@ -1,4 +1,4 @@
-# Quizzler App
+# Quizzler App💡
 Welcome to Quizzler, a fun and interactive trivia quiz game built using Python! 🧠💡 Test your knowledge with exciting questions fetched directly from the Open Trivia Database (Trivia DB). Play, learn, and challenge yourself with this beautifully designed graphical user interface (GUI). 🎮
 
 ## 🚀 Features
