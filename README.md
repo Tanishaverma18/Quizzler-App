@@ -17,6 +17,6 @@ Welcome to Quizzler, a fun and interactive trivia quiz game built using Python! 
 🔄 Keep going until you've answered all the questions!<br>
 
 ## 🛠️ Technologies Used
-Tkinter: For the graphical interface 🖌️.<br>
-Requests: For fetching quiz data from the Trivia DB API 🌐.<br>
-Python: The language that powers it all 🐍.<br>
+* Tkinter: For the graphical interface 🖌️.<br>
+* Requests: For fetching quiz data from the Trivia DB API 🌐.<br>
+* Python: The language that powers it all 🐍.<br>
